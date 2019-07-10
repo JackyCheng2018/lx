@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root imageWidth='440' imageHeight='250'>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods1.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods2.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods3.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods4.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods5.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods1.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods2.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods3.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods4.jpg"/>
+<menu url="product_nr.html" frame="_self" imageUrl="images/goods5.jpg"/>
+</root>
